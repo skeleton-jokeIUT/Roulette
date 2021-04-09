@@ -1,0 +1,21 @@
+body
+{
+	text-align: center;
+}
+
+fieldset
+{
+	border-style: none;
+}
+
+fieldset label
+{
+
+border-style: solid;
+}
+
+button
+{
+	font-size: 5em;
+}
+
